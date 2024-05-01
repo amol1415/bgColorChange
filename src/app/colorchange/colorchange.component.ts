@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class ColorchangeComponent {
 
-  darkColor() {
+  redColor() {
     debugger;
     let a = 10;
     let b = 20;
